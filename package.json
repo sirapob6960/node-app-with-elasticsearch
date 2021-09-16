@@ -21,7 +21,7 @@
     "mysql": "^2.17.1",
     "node-datetime": "^2.1.2",
     "nodemon": "^1.19.0",
-    "redis": "^2.8.0",
+    "redis": "^3.1.1",
     "serve-favicon": "~2.4.5",
     "simple-redis-queue": "git+ssh://git@github.com/hkulekci/node-simple-redis-queue.git",
     "twig": "~0.10.3"
