@@ -7,7 +7,7 @@
     "listen": "nodemon -e queue-listener.js ./queue-listener.js"
   },
   "dependencies": {
-    "async": "^2.6.2",
+    "async": "^2.6.4",
     "blueimp-md5": "^2.10.0",
     "body-parser": "^1.19.0",
     "cookie-parser": "^1.4.4",
